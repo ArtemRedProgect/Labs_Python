@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ba84353-992a-4507-b1a3-91e5a687af4d" name="Changes" comment="Задание 14">
-      <change afterPath="$PROJECT_DIR$/num15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7ba84353-992a-4507-b1a3-91e5a687af4d" name="Changes" comment="Задание 16">
+      <change afterPath="$PROJECT_DIR$/num17.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +54,8 @@
     "Python.num1.executor": "Run",
     "Python.num10.executor": "Run",
     "Python.num15.executor": "Run",
+    "Python.num16.executor": "Run",
+    "Python.num17.executor": "Run",
     "Python.num2.executor": "Run",
     "Python.num3.executor": "Run",
     "Python.num4.executor": "Run",
@@ -266,7 +267,23 @@
       <option name="project" value="LOCAL" />
       <updated>1791988154278</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Задание 15">
+      <option name="closed" value="true" />
+      <created>1791988483062</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1791988483062</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Задание 16">
+      <option name="closed" value="true" />
+      <created>1791988762372</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1791988762372</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -294,6 +311,8 @@
     <MESSAGE value="Задание 12" />
     <MESSAGE value="Задание 13" />
     <MESSAGE value="Задание 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 14" />
+    <MESSAGE value="Задание 15" />
+    <MESSAGE value="Задание 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 16" />
   </component>
 </project>
