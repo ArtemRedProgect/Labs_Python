@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ba84353-992a-4507-b1a3-91e5a687af4d" name="Changes" comment="Задание 3">
-      <change afterPath="$PROJECT_DIR$/num4.py" afterDir="false" />
+    <list default="true" id="7ba84353-992a-4507-b1a3-91e5a687af4d" name="Changes" comment="Задание 7">
+      <change afterPath="$PROJECT_DIR$/num8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ArtemRedProgect"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ArtemRedProgect&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ArtemRedProgect/Labs_Python.git",
-    "accountId": "0f5776f3-70ad-457b-a5a2-2ea4fd571d23"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ArtemRedProgect/Labs_Python.git&quot;,
+    &quot;accountId&quot;: &quot;0f5776f3-70ad-457b-a5a2-2ea4fd571d23&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -42,7 +43,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="3KMdjei8iLG57wtElvP1TYULDPg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,6 +56,10 @@
     "Python.num1.executor": "Run",
     "Python.num2.executor": "Run",
     "Python.num3.executor": "Run",
+    "Python.num4.executor": "Run",
+    "Python.num5.executor": "Run",
+    "Python.num7.executor": "Run",
+    "Python.num8.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "preferences.lookFeel"
@@ -146,7 +153,39 @@
       <option name="project" value="LOCAL" />
       <updated>1791877894719</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Задание 4">
+      <option name="closed" value="true" />
+      <created>1791878011537</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1791878011537</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Задание 5">
+      <option name="closed" value="true" />
+      <created>1791878125719</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1791878125719</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Задание 6">
+      <option name="closed" value="true" />
+      <created>1791878176963</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1791878176963</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Задание 7">
+      <option name="closed" value="true" />
+      <created>1791878255134</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1791878255134</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +202,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Задание 2" />
     <MESSAGE value="Задание 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 3" />
+    <MESSAGE value="Задание 4" />
+    <MESSAGE value="Задание 5" />
+    <MESSAGE value="Задание 6" />
+    <MESSAGE value="Задание 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 7" />
   </component>
 </project>
