@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ba84353-992a-4507-b1a3-91e5a687af4d" name="Changes" comment="Задание 9">
-      <change afterPath="$PROJECT_DIR$/num10.py" afterDir="false" />
+    <list default="true" id="7ba84353-992a-4507-b1a3-91e5a687af4d" name="Changes" comment="Задание 14">
+      <change afterPath="$PROJECT_DIR$/num15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,7 @@
     "Python.main.executor": "Run",
     "Python.num1.executor": "Run",
     "Python.num10.executor": "Run",
+    "Python.num15.executor": "Run",
     "Python.num2.executor": "Run",
     "Python.num3.executor": "Run",
     "Python.num4.executor": "Run",
@@ -70,7 +72,7 @@
       <recent name="D:\March\Laba1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.num10">
+  <component name="RunManager">
     <configuration name="num1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Laba1" />
       <option name="ENV_FILES" value="" />
@@ -224,7 +226,47 @@
       <option name="project" value="LOCAL" />
       <updated>1791987436786</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Задание 10">
+      <option name="closed" value="true" />
+      <created>1791987722879</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1791987722879</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Задание 11">
+      <option name="closed" value="true" />
+      <created>1791987814968</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1791987814968</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Задание 12">
+      <option name="closed" value="true" />
+      <created>1791987904068</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1791987904068</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Задание 13">
+      <option name="closed" value="true" />
+      <created>1791988007673</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1791988007673</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Задание 14">
+      <option name="closed" value="true" />
+      <created>1791988154278</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1791988154278</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -247,6 +289,11 @@
     <MESSAGE value="Задание 7" />
     <MESSAGE value="Задание 8" />
     <MESSAGE value="Задание 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 9" />
+    <MESSAGE value="Задание 10" />
+    <MESSAGE value="Задание 11" />
+    <MESSAGE value="Задание 12" />
+    <MESSAGE value="Задание 13" />
+    <MESSAGE value="Задание 14" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 14" />
   </component>
 </project>
